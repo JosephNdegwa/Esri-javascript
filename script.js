@@ -1,8 +1,8 @@
 var map;
-require(["esri/map","dojo/domREady!"],function (Map) {
+require(["esri/map","dojo/domReady!"],function (Map) {
     map = new Map("map", {
         basemap: "topo-vector",
-        center: [-122.45, 37.75],
-        zoom: 13
+        center: [36.9,-1.22],
+        zoom: 11
       });
 });
