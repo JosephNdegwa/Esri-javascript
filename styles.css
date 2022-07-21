@@ -1,14 +1,27 @@
 body {
-    padding-top: 50px;
+    padding-top: 5px;
   }
-  .starter-template {
-    padding: 40px 15px;
+
+.starter-template {
     text-align: center;
   }
-  
 
-html, #map {
+#map {
     height: 100%;
-    padding: 0;
+    width: 100%;
     margin: 0;
-}
+    padding: 0;
+ }
+
+ #search {
+    margin-top: 50px;
+    display: block;
+    position: absolute;
+    z-index: 2;
+    top: 20px;
+    left: 74px;
+ }
+
+ .jumbotron {
+    margin-bottom: 0%;
+ }
