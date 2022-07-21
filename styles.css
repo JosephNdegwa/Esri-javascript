@@ -1,4 +1,13 @@
-html, body, #map {
+body {
+    padding-top: 50px;
+  }
+  .starter-template {
+    padding: 40px 15px;
+    text-align: center;
+  }
+  
+
+html, #map {
     height: 100%;
     padding: 0;
     margin: 0;
