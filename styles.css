@@ -4,6 +4,8 @@ body {
 
 .starter-template {
     text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
   }
 
 #map {
@@ -24,4 +26,6 @@ body {
 
  .jumbotron {
     margin-bottom: 0%;
+    margin-left: 50px;
+    margin-right: 50px;
  }
