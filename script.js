@@ -16,7 +16,7 @@ require([
 
 ], function (Map, Search) {
    var map = new Map("map", {
-      basemap: "gray-vector",
+      basemap: "streets",
       center: [36.9,-1.22], // lon, lat
       zoom: 6
    });
